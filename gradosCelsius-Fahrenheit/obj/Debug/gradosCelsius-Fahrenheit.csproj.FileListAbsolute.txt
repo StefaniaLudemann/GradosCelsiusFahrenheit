@@ -1,0 +1,7 @@
+C:\Users\stefa\source\repos\gradosCelsius-Fahrenheit\gradosCelsius-Fahrenheit\bin\Debug\gradosCelsius-Fahrenheit.exe.config
+C:\Users\stefa\source\repos\gradosCelsius-Fahrenheit\gradosCelsius-Fahrenheit\bin\Debug\gradosCelsius-Fahrenheit.exe
+C:\Users\stefa\source\repos\gradosCelsius-Fahrenheit\gradosCelsius-Fahrenheit\bin\Debug\gradosCelsius-Fahrenheit.pdb
+C:\Users\stefa\source\repos\gradosCelsius-Fahrenheit\gradosCelsius-Fahrenheit\obj\Debug\gradosCelsius-Fahrenheit.csprojAssemblyReference.cache
+C:\Users\stefa\source\repos\gradosCelsius-Fahrenheit\gradosCelsius-Fahrenheit\obj\Debug\gradosCelsius-Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\gradosCelsius-Fahrenheit\gradosCelsius-Fahrenheit\obj\Debug\gradosCelsius-Fahrenheit.exe
+C:\Users\stefa\source\repos\gradosCelsius-Fahrenheit\gradosCelsius-Fahrenheit\obj\Debug\gradosCelsius-Fahrenheit.pdb
